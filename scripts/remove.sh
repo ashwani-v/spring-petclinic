@@ -1,1 +1,1 @@
-sudo rm -rf /home/ec2-user/spring-petclinic-2.4.5.jar
+sudo rm -rf /home/ec2-user/application/spring-petclinic-2.4.5.jar
